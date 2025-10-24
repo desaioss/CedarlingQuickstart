@@ -19,11 +19,6 @@
                     "description": "allow_teacher",
                     "creation_date": "2025-10-24T12:21:32.207375",
                     "policy_content": "QGlkKCJhbGxvd190ZWFjaGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiVGVhY2hlciIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
-                },
-                "843cc7823576afcee8e3fc1125a947b0e2677a939112": {
-                    "description": "allow_teacher",
-                    "creation_date": "2025-10-24T12:21:33.375524",
-                    "policy_content": "QGlkKCJhbGxvd190ZWFjaGVyIikKcGVybWl0KAogIHByaW5jaXBhbCBpbiBKYW5zOjpSb2xlOjoiVGVhY2hlciIsCiAgYWN0aW9uLAogIHJlc291cmNlCik7"
                 }
             },
             "trusted_issuers": {},
